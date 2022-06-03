@@ -1,0 +1,16 @@
+{
+  "name": "akf-oda",
+  "version": "1.0.0",
+  "description": "Özel oda açan discord botu!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Akif9748",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@discordjs/builders": "^0.11.0",
+    "@discordjs/rest": "^0.2.0-canary.0",
+    "discord.js": "^13.7.0"
+  }
+}
